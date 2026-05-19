@@ -15,7 +15,7 @@ To reproduce our results: Run python main.py to run IHCDA
 1-CircR2Disease.xlsx
 2-Circ2Disease.xlsx
 3-CircRNADisease.xlsx
-4-circFunbase.xlsx
+4-circFunbase.txt
 5-CircR2Disease v2.0.xlsx
 
 # Folder
